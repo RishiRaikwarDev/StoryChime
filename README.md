@@ -8,6 +8,8 @@ The **StoryChime** project is organized into a modular structure to facilitate t
 ```
 StoryChime/                                   # Main project directory
 │
+├── README.md                                   # Overall project documentation
+│
 ├── StoryChimeAPI/                             # Backend project
 │   ├── api-gateway/                           # API Gateway Service
 │   │   ├── src/                               # Source code for API Gateway
